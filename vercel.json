@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "python3 -c 'import twophase.pruning;'",
+  "buildCommand": "python3 make.py",
   "builds": [
       {
           "src": "index.py",
