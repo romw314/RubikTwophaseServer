@@ -3,7 +3,7 @@
   "buildCommand": "python3 -c 'import twophase.pruning;'",
   "builds": [
       {
-          "src": "*.py",
+          "src": "index.py",
           "use": "@vercel/python"
       }
   ],
