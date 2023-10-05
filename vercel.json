@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "buildCommand": "python3 -c 'import twophase.pruning;'",
   "builds": [
       {
           "src": "*.py",
